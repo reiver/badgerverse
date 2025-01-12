@@ -1,0 +1,12 @@
+github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
+github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
+github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f h1:D1QSxKHm8U73XhjsW3SFLkT0zT5pKJi+1KGboMhY1Rk=
+github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f/go.mod h1:F0HbBf+Ak2ZlE8YkDW4Y+KxaUmT0KaaIJK6CXY3cJxE=
+github.com/reiver/go-log v1.1.1-0.20250112073952-9561cd42d7ec h1:hkYO+BgWByMhSsuEGpbnkNdGYiMrKiqbGb/+4Zbwa5s=
+github.com/reiver/go-log v1.1.1-0.20250112073952-9561cd42d7ec/go.mod h1:0sqMSve6TILkxj7UEER97cmnhJmE/XkTIPBxtXbSEcM=
+github.com/reiver/go-path v0.0.0-20240327181650-5f2ee05890d8 h1:8JFCnRV4GVjP8XUFuXvCH42o4fXHSkGcUkfsloB+LeY=
+github.com/reiver/go-path v0.0.0-20240327181650-5f2ee05890d8/go.mod h1:4H3fxXTRSuvWviraF1tFTVXhRciV8KFGq5tzo1gb2Tk=
+github.com/reiver/go-pathmatch v2.2.0+incompatible h1:hFg/Aa8G3+YSfCK1JSvQvY7mIab7YPWq97kUmKwSQq8=
+github.com/reiver/go-pathmatch v2.2.0+incompatible/go.mod h1:T2YWRaELNiTfGhs3tNIWwLGlWe2fGmuO8AVcjUPVgnE=
+github.com/reiver/go-pathmux v0.0.0-20241201081504-42a7b9f5edf8 h1:GRX+FQJ7/791yM9EWUMzYAThFyb/U655Y+P75hIopl0=
+github.com/reiver/go-pathmux v0.0.0-20241201081504-42a7b9f5edf8/go.mod h1:b9ed6nFkWn5atpsqz1SHrqXQrde91TBL4jjX3pGK1Zw=
