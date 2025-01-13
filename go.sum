@@ -8,5 +8,5 @@ github.com/reiver/go-path v0.0.0-20240327181650-5f2ee05890d8 h1:8JFCnRV4GVjP8XUF
 github.com/reiver/go-path v0.0.0-20240327181650-5f2ee05890d8/go.mod h1:4H3fxXTRSuvWviraF1tFTVXhRciV8KFGq5tzo1gb2Tk=
 github.com/reiver/go-pathmatch v2.2.0+incompatible h1:hFg/Aa8G3+YSfCK1JSvQvY7mIab7YPWq97kUmKwSQq8=
 github.com/reiver/go-pathmatch v2.2.0+incompatible/go.mod h1:T2YWRaELNiTfGhs3tNIWwLGlWe2fGmuO8AVcjUPVgnE=
-github.com/reiver/go-pathmux v0.0.0-20241201081504-42a7b9f5edf8 h1:GRX+FQJ7/791yM9EWUMzYAThFyb/U655Y+P75hIopl0=
-github.com/reiver/go-pathmux v0.0.0-20241201081504-42a7b9f5edf8/go.mod h1:b9ed6nFkWn5atpsqz1SHrqXQrde91TBL4jjX3pGK1Zw=
+github.com/reiver/go-pathmux v0.0.0-20250113184313-b773d1ae8cb7 h1:LczWwFGEC7C+NdxR1LseZ1RPwRLqnUibDTcuf13qGNA=
+github.com/reiver/go-pathmux v0.0.0-20250113184313-b773d1ae8cb7/go.mod h1:skftYndyTOU0cNVp491NSoiBJj96eABC2i8ipPVqRYU=

@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/reiver/go-log v1.1.1-0.20250112073952-9561cd42d7ec
-	github.com/reiver/go-pathmux v0.0.0-20241201081504-42a7b9f5edf8
+	github.com/reiver/go-pathmux v0.0.0-20250113184313-b773d1ae8cb7
 )
 
 require (
