@@ -5,6 +5,7 @@ import (
 	"net/http"
 
 	"github.com/reiver/badgerverse/srv/http"
+	"github.com/reiver/badgerverse/srv/log"
 )
 
 const path string = "/"
@@ -17,6 +18,9 @@ func init() {
 }
 
 func serveHTTP(responsewriter http.ResponseWriter, request *http.Request) {
+	log := logsrv.Prefix("www("+path+")").Begin()
+	defer log.End()
+
 	if nil == responsewriter {
 		return
 	}
